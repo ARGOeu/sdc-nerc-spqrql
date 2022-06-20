@@ -8,7 +8,6 @@ Packager:	Themis Zamani <themiszamani@gmail.com>
 Source:		%{name}-%{version}.tar.gz
 BuildArch:	noarch
 BuildRoot:	%{_tmppath}/%{name}-%{version}
-Requires(pre):  gridsite-clients
 AutoReqProv: no
 
 %description
